@@ -1,2 +1,1 @@
-# TOWERSEIGE-1
-DRAG TO HIT
+# TowerSiege-1
